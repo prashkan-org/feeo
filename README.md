@@ -1,3 +1,7 @@
 # feeo
 
 aio_FMBo07xPM4e0Aj3eYjO23blIt002
+
+testing push protection on public
+
+CLOJARS_55caac69f43c796b63a772a1291965625d786538f22df961766827577027
